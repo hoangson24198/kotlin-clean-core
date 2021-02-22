@@ -3,7 +3,7 @@ package com.hoangson.baseandroid.core
 class Configuration {
 
     companion object {
-        const val REMOTE_ENDPOINT = "https://hanihussein.pythonanywhere.com/demo/api/v1/"
+        const val REMOTE_ENDPOINT = "https://115.78.1.222:24481"
         const val DATABASE_NAME = ""
         const val SHARED_PREF_NAME = ""
     }
